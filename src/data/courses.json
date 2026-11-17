@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c-1",
+    "code": "CS-301",
+    "name": "Operating Systems",
+    "department": "Computer Science",
+    "topics": ["Virtual Memory & Paging", "Process Synchronization", "Deadlocks", "File Systems", "CPU Scheduling"],
+    "activeSquadsCount": 4,
+    "examCategory": "Semester Finals"
+  },
+  {
+    "id": "c-2",
+    "code": "MATH-210",
+    "name": "Linear Algebra",
+    "department": "Mathematics",
+    "topics": ["Eigenvalues & Eigenvectors", "Singular Value Decomposition (SVD)", "Vector Spaces", "Orthogonal Projections", "Matrix Factorization"],
+    "activeSquadsCount": 3,
+    "examCategory": "Midterms"
+  },
+  {
+    "id": "c-3",
+    "code": "GATE-CS",
+    "name": "GATE Computer Science 2027",
+    "department": "Engineering All-Campus",
+    "topics": ["Theory of Computation", "Compiler Design", "Algorithms & Complexity", "Computer Networks", "Database Systems"],
+    "activeSquadsCount": 6,
+    "examCategory": "National Competitive"
+  },
+  {
+    "id": "c-4",
+    "code": "TEST-GRE",
+    "name": "GRE Quantitative & Verbal Reasoning",
+    "department": "Graduate Studies",
+    "topics": ["Advanced Quant Geometry", "Data Interpretation", "High-Frequency Vocabulary", "Sentence Equivalence", "Combinatorics"],
+    "activeSquadsCount": 5,
+    "examCategory": "Graduate Entrance"
+  },
+  {
+    "id": "c-5",
+    "code": "CS-450",
+    "name": "Artificial Intelligence & Deep Learning",
+    "department": "Computer Science",
+    "topics": ["Transformer Architectures", "Backpropagation", "Convolutional Neural Nets", "Reinforcement Learning", "Attention Mechanisms"],
+    "activeSquadsCount": 3,
+    "examCategory": "Project & Term Paper"
+  },
+  {
+    "id": "c-6",
+    "code": "CS-201",
+    "name": "Data Structures & Algorithms",
+    "department": "Computer Science",
+    "topics": ["Dynamic Programming", "Graph Algorithms", "Segment Trees", "Divide & Conquer", "Tree Traversal"],
+    "activeSquadsCount": 7,
+    "examCategory": "Technical Interviews & Finals"
+  },
+  {
+    "id": "c-7",
+    "code": "ME-304",
+    "name": "Thermodynamics & Heat Transfer",
+    "department": "Mechanical Engineering",
+    "topics": ["Power Cycles (Rankine/Brayton)", "Transient Conduction", "Entropy Generation", "Radiation Heat Transfer"],
+    "activeSquadsCount": 2,
+    "examCategory": "Midterms"
+  },
+  {
+    "id": "c-8",
+    "code": "TEST-CAT",
+    "name": "CAT & Management Aptitude",
+    "department": "Management / All-Campus",
+    "topics": ["Quantitative Ability", "Data Interpretation & Logical Reasoning (DILR)", "Reading Comprehension", "Speed Math"],
+    "activeSquadsCount": 4,
+    "examCategory": "Management Entrance"
+  }
+]

@@ -1,0 +1,581 @@
+[
+  {
+    "id": "squad-201",
+    "name": "OS Finals Crunch & Kernel Hackers",
+    "subject": "Operating Systems",
+    "category": "Computer Science",
+    "description": "Deep-dive problem solving into virtual memory, page replacement algorithms, mutexes & semaphores, and process scheduling.",
+    "schedule": "Today 4:00 PM - 6:00 PM",
+    "timeBlock": "Afternoon",
+    "maxMembers": 4,
+    "status": "Open",
+    "designatedRoomId": "room-101",
+    "designatedRoomName": "Central Library Discussion Pod #3",
+    "targetExam": "End-Sem Finals",
+    "streakDays": 8,
+    "streakBadge": "⚡ 8-Day Focus Force",
+    "members": [
+      {
+        "id": "u-01",
+        "name": "Alex Chen",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Computer Science & Eng",
+        "status": "In Session",
+        "streakDays": 14
+      },
+      {
+        "id": "u-02",
+        "name": "Samantha Rao",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Software Engineering",
+        "status": "Focusing",
+        "streakDays": 8
+      },
+      {
+        "id": "u-03",
+        "name": "David Kim",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Data Science",
+        "status": "En Route",
+        "streakDays": 6
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-1",
+        "text": "Review Chapter 8: Demand Paging & Inverted Page Tables",
+        "completed": true,
+        "assignee": "Alex Chen"
+      },
+      {
+        "id": "g-2",
+        "text": "Solve 5 Banker's Algorithm Deadlock avoidance problems",
+        "completed": true,
+        "assignee": "Samantha Rao"
+      },
+      {
+        "id": "g-3",
+        "text": "Code POSIX mutex lock simulation for Producer-Consumer problem",
+        "completed": false,
+        "assignee": "David Kim"
+      },
+      {
+        "id": "g-4",
+        "text": "Mock 30-min mid-term rapid fire question quiz",
+        "completed": false,
+        "assignee": "All"
+      }
+    ],
+    "notes": [
+      "Remember: Dirty bit tells if page frame was modified and must write back to swap disk.",
+      "Room Pod #3 has HDMI adapters and whiteboard markers on the shelf."
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 3
+    }
+  },
+  {
+    "id": "squad-202",
+    "name": "Linear Algebra & Eigenvalue Masters",
+    "subject": "Linear Algebra",
+    "category": "Mathematics",
+    "description": "Rigorous matrix decomposition workshop covering SVD, QR Factorization, Spectral Theorem, and Jordan Normal Forms.",
+    "schedule": "Tomorrow 10:00 AM - 12:30 PM",
+    "timeBlock": "Morning",
+    "maxMembers": 5,
+    "status": "Open",
+    "designatedRoomId": "room-111",
+    "designatedRoomName": "Math & Stats Modeling Cell 12",
+    "targetExam": "Midterms",
+    "streakDays": 12,
+    "streakBadge": "🔥 12-Day Streak Champion",
+    "members": [
+      {
+        "id": "u-04",
+        "name": "Elena Rostova",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Applied Mathematics",
+        "status": "Ready",
+        "streakDays": 12
+      },
+      {
+        "id": "u-05",
+        "name": "Marcus Wright",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Electrical Eng",
+        "status": "Ready",
+        "streakDays": 12
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-5",
+        "text": "Derive Singular Value Decomposition step-by-step on whiteboard",
+        "completed": true,
+        "assignee": "Elena Rostova"
+      },
+      {
+        "id": "g-6",
+        "text": "Compute Gram-Schmidt orthogonalization on 4D subspace",
+        "completed": false,
+        "assignee": "Marcus Wright"
+      }
+    ],
+    "notes": [
+      "Bring Gilbert Strang reference text chapters 6 & 7.",
+      "Bring colorful whiteboard markers!"
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 6
+    }
+  },
+  {
+    "id": "squad-203",
+    "name": "GATE CSE 2027 Top 100 Rankers",
+    "subject": "GATE CSE",
+    "category": "Competitive Exams",
+    "description": "Strict silence and intensive PYQ (Previous Year Questions) drills covering TOC, Compiler Design, and Algorithms.",
+    "schedule": "Daily 6:30 PM - 9:30 PM",
+    "timeBlock": "Evening",
+    "maxMembers": 6,
+    "status": "Open",
+    "designatedRoomId": "room-107",
+    "designatedRoomName": "Algorithms Think Tank 302",
+    "targetExam": "GATE 2027",
+    "streakDays": 21,
+    "streakBadge": "🏆 21-Day Elite Veteran",
+    "members": [
+      {
+        "id": "u-06",
+        "name": "Arjun Sharma",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Computer Science",
+        "status": "In Session",
+        "streakDays": 21
+      },
+      {
+        "id": "u-07",
+        "name": "Priya Nair",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Information Tech",
+        "status": "In Session",
+        "streakDays": 21
+      },
+      {
+        "id": "u-08",
+        "name": "Rohan Patel",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Computer Science",
+        "status": "Taking Break",
+        "streakDays": 19
+      },
+      {
+        "id": "u-09",
+        "name": "Neha Gupta",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Electronics & Comm",
+        "status": "In Session",
+        "streakDays": 15
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-7",
+        "text": "Solve 25 GATE PYQs on LL(1) and LR(1) parsing tables",
+        "completed": true,
+        "assignee": "Arjun Sharma"
+      },
+      {
+        "id": "g-8",
+        "text": "Graph Theory: Prim's vs Kruskal's edge cases proof",
+        "completed": true,
+        "assignee": "Rohan Patel"
+      },
+      {
+        "id": "g-9",
+        "text": "Timed 45-minute Sectional Test: Theory of Computation",
+        "completed": false,
+        "assignee": "All"
+      }
+    ],
+    "notes": [
+      "Strict rule: Zero phone distractions during the 50-minute Pomodoro sprints.",
+      "Room 302 has Ethernet cables plugged into high speed test machines."
+    ],
+    "pomodoro": {
+      "focusMinutes": 50,
+      "breakMinutes": 10,
+      "sessionsCompleted": 8
+    }
+  },
+  {
+    "id": "squad-204",
+    "name": "GRE 330+ Quant & Verbal Sprint",
+    "subject": "GRE Prep",
+    "category": "Competitive Exams",
+    "description": "High-velocity vocabulary flashcard gauntlets and Advanced Quant hard-bin geometry/probability questions.",
+    "schedule": "Weekdays 8:00 PM - 10:00 PM",
+    "timeBlock": "Late Night",
+    "maxMembers": 4,
+    "status": "Open",
+    "designatedRoomId": "room-108",
+    "designatedRoomName": "Graduate Research Suite B",
+    "targetExam": "GRE Fall",
+    "streakDays": 15,
+    "streakBadge": "🎯 15-Day Bullseye Squad",
+    "members": [
+      {
+        "id": "u-10",
+        "name": "Jessica Taylor",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Economics & Data",
+        "status": "Focusing",
+        "streakDays": 15
+      },
+      {
+        "id": "u-11",
+        "name": "Liam Murphy",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Mechanical Eng",
+        "status": "Focusing",
+        "streakDays": 15
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-10",
+        "text": "Memorize 60 GregMat high-frequency word group 18-20",
+        "completed": true,
+        "assignee": "Jessica Taylor"
+      },
+      {
+        "id": "g-11",
+        "text": "Solve 20 Coordinate Geometry & Normal Distribution problems",
+        "completed": false,
+        "assignee": "Liam Murphy"
+      }
+    ],
+    "notes": [
+      "Suite B is quiet and warm; coffee thermos is allowed.",
+      "Keep whisper volume at all times in 4th floor quiet zone."
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 5
+    }
+  },
+  {
+    "id": "squad-205",
+    "name": "Deep Learning & Transformer Architecture",
+    "subject": "Artificial Intelligence",
+    "category": "Computer Science",
+    "description": "Implementing attention mechanisms from scratch in PyTorch, paper readings (BERT, Llama, MoE), and GPU bench drills.",
+    "schedule": "Tue/Thu/Sat 3:00 PM - 6:00 PM",
+    "timeBlock": "Afternoon",
+    "maxMembers": 5,
+    "status": "Open",
+    "designatedRoomId": "room-103",
+    "designatedRoomName": "Engineering Innovation Lab & Think Tank",
+    "targetExam": "Project & Term Paper",
+    "streakDays": 9,
+    "streakBadge": "🤖 9-Day Neural Networkers",
+    "members": [
+      {
+        "id": "u-12",
+        "name": "Karthik Subramanian",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "AI & Robotics",
+        "status": "Testing code",
+        "streakDays": 9
+      },
+      {
+        "id": "u-13",
+        "name": "Chloe Bennett",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Cognitive Science",
+        "status": "Reviewing paper",
+        "streakDays": 9
+      },
+      {
+        "id": "u-14",
+        "name": "Zane Malik",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Computer Science",
+        "status": "Debugging",
+        "streakDays": 7
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-12",
+        "text": "Trace Multi-Head Scaled Dot-Product Attention tensor shapes",
+        "completed": true,
+        "assignee": "Karthik Subramanian"
+      },
+      {
+        "id": "g-13",
+        "text": "Benchmark FlashAttention-2 speedup on lab workstations",
+        "completed": false,
+        "assignee": "Chloe Bennett"
+      },
+      {
+        "id": "g-14",
+        "text": "Write executive summary of Mixtral routing gating mechanism",
+        "completed": false,
+        "assignee": "Zane Malik"
+      }
+    ],
+    "notes": [
+      "Use Lab 103's large presentation screen for architectural flowcharts."
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 4
+    }
+  },
+  {
+    "id": "squad-206",
+    "name": "Data Structures & LeetCode Hard Blitz",
+    "subject": "Algorithms",
+    "category": "Computer Science",
+    "description": "Daily live whiteboard coding interview prep. Focus: Dynamic Programming on Trees, Segment Trees, and Monotonic Stacks.",
+    "schedule": "Daily 7:00 PM - 9:00 PM",
+    "timeBlock": "Evening",
+    "maxMembers": 6,
+    "status": "Full",
+    "designatedRoomId": "room-107",
+    "designatedRoomName": "Algorithms Think Tank 302",
+    "targetExam": "Tech Placements",
+    "streakDays": 18,
+    "streakBadge": "🔥 18-Day LeetCode Masters",
+    "members": [
+      {
+        "id": "u-15",
+        "name": "Ananya Sen",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Computer Science",
+        "status": "In Session",
+        "streakDays": 18
+      },
+      {
+        "id": "u-16",
+        "name": "Jordan Lee",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Computer Engineering",
+        "status": "In Session",
+        "streakDays": 18
+      },
+      {
+        "id": "u-17",
+        "name": "Fatima Zahra",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Information Systems",
+        "status": "In Session",
+        "streakDays": 14
+      },
+      {
+        "id": "u-18",
+        "name": "Lucas Silva",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Software Eng",
+        "status": "In Session",
+        "streakDays": 16
+      },
+      {
+        "id": "u-19",
+        "name": "Maya Patel",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Computer Science",
+        "status": "In Session",
+        "streakDays": 18
+      },
+      {
+        "id": "u-20",
+        "name": "Victor Chen",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Data Analytics",
+        "status": "In Session",
+        "streakDays": 12
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-15",
+        "text": "Solve LC 312: Burst Balloons (Interval DP)",
+        "completed": true,
+        "assignee": "Ananya Sen"
+      },
+      {
+        "id": "g-16",
+        "text": "Implement Segment Tree with Lazy Propagation",
+        "completed": true,
+        "assignee": "Jordan Lee"
+      },
+      {
+        "id": "g-17",
+        "text": "Pair Mock Interview: Dijkstra with State Constraints",
+        "completed": false,
+        "assignee": "All"
+      }
+    ],
+    "notes": [
+      "Rotate whiteboard presenter every 20 minutes."
+    ],
+    "pomodoro": {
+      "focusMinutes": 30,
+      "breakMinutes": 5,
+      "sessionsCompleted": 7
+    }
+  },
+  {
+    "id": "squad-207",
+    "name": "Thermodynamics & Heat Transfer Unit",
+    "subject": "Mechanical Engineering",
+    "category": "Engineering",
+    "description": "Rankine & Brayton power cycles, Carnot efficiency derivation, and transient conduction numerical simulations.",
+    "schedule": "Wed/Fri 1:30 PM - 3:30 PM",
+    "timeBlock": "Afternoon",
+    "maxMembers": 4,
+    "status": "Open",
+    "designatedRoomId": "room-104",
+    "designatedRoomName": "Student Center Collab Loft 204",
+    "targetExam": "Midterms",
+    "streakDays": 6,
+    "streakBadge": "⚡ 6-Day Thermal Titans",
+    "members": [
+      {
+        "id": "u-21",
+        "name": "Tariq Al-Mansoor",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Mechanical Engineering",
+        "status": "Reviewing notes",
+        "streakDays": 6
+      },
+      {
+        "id": "u-22",
+        "name": "Emily Watson",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Aerospace Eng",
+        "status": "Ready",
+        "streakDays": 6
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-18",
+        "text": "Plot T-s and P-v diagrams for Reheat Rankine cycle",
+        "completed": true,
+        "assignee": "Tariq Al-Mansoor"
+      },
+      {
+        "id": "g-19",
+        "text": "Calculate lumped capacitance criterion Biot Number < 0.1",
+        "completed": false,
+        "assignee": "Emily Watson"
+      }
+    ],
+    "notes": [
+      "Steam tables and Mollier diagrams provided on tablet."
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 2
+    }
+  },
+  {
+    "id": "squad-208",
+    "name": "CAT & MBA Quant Reasoning Syndicate",
+    "subject": "CAT / Aptitude",
+    "category": "Competitive Exams",
+    "description": "Fast mental math, Data Interpretation caselets, Logical Reasoning grids, and Arithmetic speed sprints.",
+    "schedule": "Daily 6:00 AM - 8:00 AM",
+    "timeBlock": "Morning",
+    "maxMembers": 5,
+    "status": "Open",
+    "designatedRoomId": "room-112",
+    "designatedRoomName": "Central Library Mezzanine Study Pod #8",
+    "targetExam": "CAT 2026",
+    "streakDays": 14,
+    "streakBadge": "🌅 14-Day Early Bird Squad",
+    "members": [
+      {
+        "id": "u-23",
+        "name": "Aditya Verma",
+        "avatar": "/default-avatar.png",
+        "role": "Squad Leader",
+        "department": "Economics & Finance",
+        "status": "Focusing",
+        "streakDays": 14
+      },
+      {
+        "id": "u-24",
+        "name": "Sneha Bose",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Business Analytics",
+        "status": "Focusing",
+        "streakDays": 14
+      },
+      {
+        "id": "u-25",
+        "name": "Karan Malhotra",
+        "avatar": "/default-avatar.png",
+        "role": "Member",
+        "department": "Commerce & Stats",
+        "status": "En Route",
+        "streakDays": 10
+      }
+    ],
+    "sessionGoals": [
+      {
+        "id": "g-20",
+        "text": "Solve 3 complete DILR 4-variable matrix arrangements",
+        "completed": true,
+        "assignee": "Aditya Verma"
+      },
+      {
+        "id": "g-21",
+        "text": "Speed drill: 25 time-speed-distance questions under 30 mins",
+        "completed": false,
+        "assignee": "All"
+      }
+    ],
+    "notes": [
+      "Early morning morning slot: Central Library opens doors at 5:45 AM for pass holders."
+    ],
+    "pomodoro": {
+      "focusMinutes": 25,
+      "breakMinutes": 5,
+      "sessionsCompleted": 4
+    }
+  }
+]

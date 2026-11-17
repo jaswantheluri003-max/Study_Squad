@@ -1,0 +1,38 @@
+[
+  {
+    "id": "notif-1",
+    "title": "Room Hold Active: Pod #3",
+    "message": "Your 20-minute hold on Central Library Discussion Pod #3 is counting down. Check in upon arrival.",
+    "timestamp": "5 mins ago",
+    "type": "hold",
+    "read": false,
+    "icon": "Clock"
+  },
+  {
+    "id": "notif-2",
+    "title": "Study Squad Invites Accepted",
+    "message": "David Kim joined 'OS Finals Crunch & Kernel Hackers'. Target goal updated.",
+    "timestamp": "22 mins ago",
+    "type": "squad",
+    "read": false,
+    "icon": "Users"
+  },
+  {
+    "id": "notif-3",
+    "title": "New Streak Badge Unlocked!",
+    "message": "You unlocked the '7-Day Study Warrior' badge! Keep your squad momentum going.",
+    "timestamp": "2 hours ago",
+    "type": "badge",
+    "read": true,
+    "icon": "Award"
+  },
+  {
+    "id": "notif-4",
+    "title": "Live Sensor Alert: West Wing",
+    "message": "Silent Reading Hall noise level dropped to 32 dB (Whisper Quiet). 8 desks currently available.",
+    "timestamp": "4 hours ago",
+    "type": "system",
+    "read": true,
+    "icon": "Volume2"
+  }
+]

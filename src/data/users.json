@@ -1,0 +1,120 @@
+{
+  "currentUser": {
+    "id": "usr-me",
+    "name": "Alex Rivera",
+    "email": "a.rivera@campus.edu",
+    "password": "password123",
+    "avatar": "/default-avatar.png",
+    "department": "Computer Science & Engineering",
+    "studentId": "CS-2024-8842",
+    "year": "3rd Year (Junior)",
+    "gpa": "3.84",
+    "academicInterests": [
+      "Operating Systems",
+      "Distributed Systems",
+      "Algorithms & Data Structures",
+      "Machine Learning",
+      "GATE CSE Prep"
+    ],
+    "activeStreakDays": 7,
+    "longestStreakDays": 19,
+    "stats": {
+      "totalStudyHours": 48.5,
+      "sessionsCompleted": 24,
+      "roomsBooked": 9,
+      "squadCollaborations": 18
+    },
+    "badges": [
+      {
+        "id": "b-1",
+        "title": "7-Day Study Warrior",
+        "icon": "🔥",
+        "description": "Studied 7 days consecutively with verified squads",
+        "unlockedAt": "Today"
+      },
+      {
+        "id": "b-2",
+        "title": "Quiet Zone Scholar",
+        "icon": "🤫",
+        "description": "Completed 15 hours in Whisper Quiet (<40 dB) rooms",
+        "unlockedAt": "3 days ago"
+      },
+      {
+        "id": "b-3",
+        "title": "Squad Leader",
+        "icon": "👑",
+        "description": "Formed and led a high-efficiency study squad with 4+ peers",
+        "unlockedAt": "Last week"
+      },
+      {
+        "id": "b-4",
+        "title": "Rapid Check-in",
+        "icon": "⚡",
+        "description": "Confirmed 5 room holds within the 20-minute window",
+        "unlockedAt": "5 days ago"
+      }
+    ],
+    "joinedSquadIds": ["squad-201", "squad-203"],
+    "favoriteRoomIds": ["room-101", "room-107", "room-105"],
+    "recentlyViewedRoomIds": ["room-101", "room-103", "room-107", "room-112"]
+  },
+  "registeredUsers": [
+    {
+      "id": "usr-me",
+      "name": "Alex Rivera",
+      "email": "a.rivera@campus.edu",
+      "password": "password123",
+      "avatar": "/default-avatar.png",
+      "department": "Computer Science & Engineering",
+      "studentId": "CS-2024-8842",
+      "year": "3rd Year (Junior)",
+      "gpa": "3.84",
+      "academicInterests": [
+        "Operating Systems",
+        "Distributed Systems",
+        "Algorithms & Data Structures",
+        "Machine Learning"
+      ],
+      "activeStreakDays": 7,
+      "longestStreakDays": 19,
+      "stats": {
+        "totalStudyHours": 48.5,
+        "sessionsCompleted": 24,
+        "roomsBooked": 9,
+        "squadCollaborations": 18
+      },
+      "badges": [],
+      "joinedSquadIds": ["squad-201", "squad-203"],
+      "favoriteRoomIds": ["room-101", "room-107"],
+      "recentlyViewedRoomIds": ["room-101"]
+    },
+    {
+      "id": "usr-demo",
+      "name": "Sophia Zhang",
+      "email": "demo@studysquad.edu",
+      "password": "password123",
+      "avatar": "/default-avatar.png",
+      "department": "Applied Mathematics & Statistics",
+      "studentId": "MATH-2024-1903",
+      "year": "2nd Year (Sophomore)",
+      "gpa": "3.92",
+      "academicInterests": [
+        "Linear Algebra",
+        "Probability & Statistics",
+        "Deep Learning"
+      ],
+      "activeStreakDays": 4,
+      "longestStreakDays": 12,
+      "stats": {
+        "totalStudyHours": 32.0,
+        "sessionsCompleted": 16,
+        "roomsBooked": 5,
+        "squadCollaborations": 10
+      },
+      "badges": [],
+      "joinedSquadIds": ["squad-202"],
+      "favoriteRoomIds": ["room-111"],
+      "recentlyViewedRoomIds": ["room-111"]
+    }
+  ]
+}
